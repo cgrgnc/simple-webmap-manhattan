@@ -65,6 +65,12 @@ const markers = [{
     title: "Grand Central Terminal",
     url: "https://en.wikipedia.org/wiki/Grand_Central_Terminal"
 }, {
+    latitude: 40.800890501060785,
+    longitude: -73.96827792832266,
+    type: "railway",
+    title: "103 St Subway Station",
+    url: "https://en.wikipedia.org/wiki/Grand_Central_Terminal"
+}, {
     latitude: 40.706750826873204,
     longitude: -74.00796716329792,
     type: "street",
