@@ -2,3 +2,5 @@ cache/webpack/client-production/0.pack filter=lfs diff=lfs merge=lfs -text
 /home/vortovor/newyork-map-portfolio/.next/cache/webpack/client-production/0.pack filter=lfs diff=lfs merge=lfs -text
 /home/vortovor/newyork-map-portfolio/.next/cache/webpack/client-production/ filter=lfs diff=lfs merge=lfs -text
 .next/cache/webpack/client-production filter=lfs diff=lfs merge=lfs -text
+build/cache/webpack/client-production/0.pack filter=lfs diff=lfs merge=lfs -text
+/home/vortovor/newyork-map-portfolio/build/cache/webpack/client-production/0.pack filter=lfs diff=lfs merge=lfs -text
