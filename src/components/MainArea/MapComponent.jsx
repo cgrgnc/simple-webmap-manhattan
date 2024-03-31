@@ -64,6 +64,7 @@ const MapComponent = () => {
         })
 
 
+        // eslint-disable-next-line react-hooks/exhaustive-deps
     }, []);
 
     const [navPoints, setNavPoints] = useState([{ latitude: me.latitude, longitude: me.longitude },
