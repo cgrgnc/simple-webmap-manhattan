@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import React, { useState, useEffect, useCallback, useMemo, useRef } from 'react';
 import 'mapbox-gl/dist/mapbox-gl.css';
 import Map, { FullscreenControl, GeolocateControl, Layer, Marker, NavigationControl, ScaleControl, Source } from 'react-map-gl';
