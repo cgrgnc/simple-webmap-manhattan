@@ -280,7 +280,7 @@ const MapComponent = () => {
             </Map >
             <Card position="absolute" top="0" right="1" bg="white" borderRadius={15}>
                 <Flex p={5} justifyContent="center" bgColor="#319795">
-                    <Heading size="md" color="white">Select What to See</Heading>
+                    <Heading size="sm" color="white">Select What to See</Heading>
                 </Flex>
 
                 <VStack alignItems="flex-start">

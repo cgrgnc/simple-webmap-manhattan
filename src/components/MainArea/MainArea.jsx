@@ -11,7 +11,7 @@ export const MainArea = () => {
         <>
             <Flex flexDir="column">
                 <MapComponent />
-                <Flex pt="5" px={20} justifyContent="space-around" color="#445069">
+                <Flex pt="5" px={20} justifyContent="space-around" color="#445069" flexDir={{ base: "column", sm: "row" }} gap={5}>
                     <Flex flexDir="column">
                         <Heading size="md" width={60}>Simple Interactive Web Map Portfolio</Heading>
                         <Flex alignItems="center" mt={5}>
